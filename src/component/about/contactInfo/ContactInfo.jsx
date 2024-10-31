@@ -19,6 +19,8 @@ const ContactInfo = () => {
             <span>+6359852452</span>
       </a>
     </div>
+
+      <h1> This is new  added file</h1>
 </div>
   )
 }
